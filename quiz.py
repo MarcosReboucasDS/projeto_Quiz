@@ -8,6 +8,8 @@ class Quiz:
         self.__acertos = acertos
         self.__erros = erros
 
+#tarrrr
+
     #get serve pra ...............
     def get_acertos(self):
         return self.__acertos

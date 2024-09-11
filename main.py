@@ -1,5 +1,7 @@
 from quizz import *
 
+#oh my got
+
 if __name__ == "__main__":
     q1 = Quiz(10, 2)
     print(q1)
