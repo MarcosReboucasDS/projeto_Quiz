@@ -1,4 +1,4 @@
-from quizz import *
+from quiz import *
 
 #oh my got
 
